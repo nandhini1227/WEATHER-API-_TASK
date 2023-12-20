@@ -1,0 +1,37 @@
+.card{
+    margin-top: 30px !important;
+    margin-bottom: 20px !important;
+    margin-left: 5px !important;
+}
+
+.container{
+    background-color: rgb(35, 64, 75) !important;
+}
+
+.card-header{
+    background-color: black!important;
+    color: white!important;
+    text-align: center !important;
+    height: 55px;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.card-img-top{
+    margin-top: 5% !important;
+    height: 200px !important;
+}
+
+.card-body{
+    
+background: linear-gradient(to right , #C7BA98 , #8D8E7A , #5A6660) !important;
+    text-align: center;
+    color: white !important;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+#button{
+    color: white;
+    border-radius: 9px;
+    border-color:  white !important;
+    
+}
